@@ -6,7 +6,7 @@ plugins {
 
 android {
     namespace = "com.unasp.financas"
-    compileSdk = 34
+    compileSdk = 35
 
     defaultConfig {
         applicationId = "com.unasp.financas"
